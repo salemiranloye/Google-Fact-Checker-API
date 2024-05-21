@@ -1,0 +1,331 @@
+{
+  "Climate Change": {
+    "claims": [
+      {
+        "text": "Earth's magnetic field shift responsible for global warming, floods in Brazil",
+        "claimant": "@OMApproach",
+        "claimDate": "2024-05-02T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": {
+              "name": "AFP Fact Check",
+              "site": "factcheck.afp.com"
+            },
+            "url": "https://factcheck.afp.com/doc.afp.com.34R83JE",
+            "title": "Conspiracy theorist blames Brazil floods on baseless 'magnetic shift' claim",
+            "reviewDate": "2024-05-16T20:31:00Z",
+            "textualRating": "UNPROVEN",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "Higher temps are only the result of urban development, not global warming",
+        "claimant": "Social media",
+        "claimDate": "2024-04-13T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": { "name": "USA Today", "site": "usatoday.com" },
+            "url": "https://www.usatoday.com/story/news/factcheck/2024/05/15/urban-heat-islands-global-warming-fact-check/73676720007/",
+            "title": "Climate scientists account for urban heat island effects | Fact check",
+            "reviewDate": "2024-05-15T19:13:59Z",
+            "textualRating": "Missing Context",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "Satellite image time-lapse of coastline shows climate change isn't real",
+        "claimant": "social media",
+        "claimDate": "2024-04-09T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": { "name": "USA Today", "site": "usatoday.com" },
+            "url": "https://www.usatoday.com/story/news/factcheck/2024/04/29/no-satellite-timelapse-doesnt-disprove-climate-change-fact-check/73285056007/",
+            "title": "No, satellite timelapse doesn't disprove climate change | Fact check",
+            "reviewDate": "2024-04-29T19:11:00Z",
+            "textualRating": "False",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "Climate scientists disagree about how much warming is associated with our emissions and whether this warming is larger than natural climate variability from the sun and volcanic eruptions",
+        "claimant": "Judith Curry",
+        "claimDate": "2024-04-26T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": {
+              "name": "Science Feedback",
+              "site": "science.feedback.org"
+            },
+            "url": "https://science.feedback.org/review/no-evidence-significant-influence-volcanoes-solar-variability-on-recent-climate-change-contrary-judith-curry-claims-prageru-video/",
+            "title": "No evidence for a significant influence of volcanoes or solar variability on recent climate change contrary to Judith Curry\u2019s claims in PragerU video",
+            "reviewDate": "2024-04-15T00:00:00Z",
+            "textualRating": "Misleading",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "Post implies old temps on Staten Island show humans don't cause warming",
+        "claimant": "Social media",
+        "claimDate": "2024-04-07T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": { "name": "USA Today", "site": "usatoday.com" },
+            "url": "https://www.usatoday.com/story/news/factcheck/2024/04/26/staten-island-temperature-global-warming-fact-check/73308373007/",
+            "title": "No, Staten Island data doesn't negate climate change | Fact check",
+            "reviewDate": "2024-04-26T17:02:24Z",
+            "textualRating": "Missing Context",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "Coral bleaching is a natural phenomenon, climate change is not to blame",
+        "claimant": "DawnTJ90",
+        "claimDate": "2024-04-16T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": {
+              "name": "AFP Fact Check",
+              "site": "factcheck.afp.com"
+            },
+            "url": "https://factcheck.afp.com/doc.afp.com.34PP2CR",
+            "title": "Coral reef misinformation bubbles up amid bleaching worldwide",
+            "reviewDate": "2024-04-19T21:08:00Z",
+            "textualRating": "Partly False",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "El Ni\u00f1o is responsible for record warming in 2023",
+        "claimant": "Ryan Maue",
+        "claimDate": "2024-03-20T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": {
+              "name": "AFP Fact Check",
+              "site": "factcheck.afp.com"
+            },
+            "url": "https://factcheck.afp.com/doc.afp.com.34MV88M",
+            "title": "Posts misrepresent effects of El Ni\u00f1o, humans on record heat",
+            "reviewDate": "2024-04-03T16:53:00Z",
+            "textualRating": "Misleading",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "Fact check/Would the Clean Power Plan mitigate climate change.",
+        "claimant": "23 state attorneys general",
+        "claimReview": [
+          {
+            "publisher": { "name": "Ballotpedia", "site": "ballotpedia.org" },
+            "url": "https://ballotpedia.org/Fact_check/Would_the_Clean_Power_Plan_mitigate_climate_change",
+            "title": "Fact check/Would the Clean Power Plan mitigate climate change",
+            "reviewDate": "2017-04-03T00:00:00Z",
+            "textualRating": "False",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "purports to show a weather reporter calling global warming a 'scam' during a weather forecast",
+        "claimant": "Video",
+        "claimDate": "2024-03-07T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": {
+              "name": "Check Your Fact",
+              "site": "checkyourfact.com"
+            },
+            "url": "https://checkyourfact.com/2024/03/25/fact-check-south-american-reporter-global-warming/",
+            "title": "FACT CHECK: X Video Falsely Claims South American Weather Reporter Called Global Warming \u2018A Scam\u2019",
+            "reviewDate": "2024-03-25T17:53:40Z",
+            "textualRating": "False",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "Ice cores from Greenland show no significant warming, casting doubt on the climate change theory",
+        "claimant": "Stephen Andrews",
+        "claimDate": "2024-03-08T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": {
+              "name": "Climate Feedback",
+              "site": "climatefeedback.org"
+            },
+            "url": "https://climatefeedback.org/claimreview/data-shows-temperatures-rising-greenland-world-current-global-warming-driven-co2-not-solar-activity/",
+            "title": "Data shows temperatures rising in Greenland and around the world; current global warming is driven by CO2, not solar activity",
+            "reviewDate": "2024-03-08T00:00:00Z",
+            "textualRating": "Inaccurate",
+            "languageCode": "en"
+          },
+          {
+            "publisher": {
+              "name": "Science Feedback",
+              "site": "science.feedback.org"
+            },
+            "url": "https://science.feedback.org/review/data-shows-temperatures-rising-greenland-world-current-global-warming-driven-co2-not-solar-activity/",
+            "title": "Data shows temperatures rising in Greenland and around the world; current global warming is driven by CO2, not solar activity",
+            "reviewDate": "2024-03-08T00:00:00Z",
+            "textualRating": "Inaccurate",
+            "languageCode": "en"
+          }
+        ]
+      }
+    ],
+    "nextPageToken": "CAo"
+  },
+  "Abortion": {
+    "claims": [
+      {
+        "text": "Anti-abortion activist sentenced to 57 months in prison for \u201chanding roses and resources to women at an abortion facility.\u201d",
+        "claimant": "Lila Rose",
+        "claimDate": "2024-05-14T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": { "name": "PolitiFact", "site": "politifact.com" },
+            "url": "https://www.politifact.com/factchecks/2024/may/17/lila-rose/activist-sentenced-for-blocking-access-to-dc-abort/",
+            "title": "Activist sentenced for blocking access to D.C. abortion clinic, not for handing out roses",
+            "textualRating": "False",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "\"Every Senate Democrat has voted to support unlimited abortions up to the moment of birth.\u201d",
+        "claimant": "Ron Johnson",
+        "claimDate": "2024-04-15T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": { "name": "PolitiFact", "site": "politifact.com" },
+            "url": "https://www.politifact.com/factchecks/2024/may/17/ron-johnson/johnson-falls-short-with-claim-on-democrats-backin/",
+            "title": "Wisconsin senator falls short with claim on Democrats backing of abortions up to the moment of birth",
+            "textualRating": "False",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "Former President Donald Trump said \u201cstates should monitor women\u2019s pregnancies and prosecute those who violate abortion bans.\u201d",
+        "claimant": "Joe Biden",
+        "claimDate": "2024-05-01T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": { "name": "FactCheck.org", "site": "factcheck.org" },
+            "url": "https://www.factcheck.org/2024/05/biden-twists-trumps-comments-on-tracking-pregnancies-and-punishing-women-who-get-abortions/",
+            "title": "Biden Twists Trump's Comments on Tracking Pregnancies and Punishing Women Who Get Abortions",
+            "textualRating": "Distorts the Facts",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "Robert F. Kennedy Jr. said he supported full-term abortions during a podcast interview with former ESPN host Sage Steele in early May 2024.",
+        "claimReview": [
+          {
+            "publisher": { "name": "Snopes", "site": "snopes.com" },
+            "url": "https://www.snopes.com/fact-check/rfk-jr-endorse-full-term-abortions/",
+            "title": "RFK Jr. Endorsed Full-Term Abortions During May 2024 Podcast Interview?",
+            "reviewDate": "2024-05-10T14:47:20Z",
+            "textualRating": "Correct Attribution",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "For health risk exceptions in Florida\u2019s abortion amendment, \u201cYou're not even talking to a doctor to make that determination.\u201d",
+        "claimant": "Paul Renner",
+        "claimDate": "2024-04-04T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": { "name": "PolitiFact", "site": "politifact.com" },
+            "url": "https://www.politifact.com/factchecks/2024/may/10/paul-renner/florida-abortion-amendment-wouldnt-let-tattoo-arti/",
+            "title": "Florida abortion amendment wouldn\u2019t let tattoo artists, receptionists decide health risk exceptions",
+            "textualRating": "False",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "Former President Donald Trump told Time magazine that \u201cstates should monitor women\u2019s pregnancies and prosecute those who violate abortion bans.\u201d",
+        "claimant": "Joe Biden",
+        "claimDate": "2024-05-01T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": { "name": "PolitiFact", "site": "politifact.com" },
+            "url": "https://www.politifact.com/factchecks/2024/may/03/joe-biden/joe-bidens-misleading-version-of-what-trump-told-t/",
+            "title": "Trump told Time that states should decide abortion laws. He didn't say they 'should' punish women.",
+            "textualRating": "Mostly False",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "In his Time magazine interview, Donald Trump \u201csaid states have the right to monitor pregnant women to enforce these bans, and states have the right to punish pregnant women for seeking out abortion care.\u201d",
+        "claimant": "Kamala Harris",
+        "claimDate": "2024-05-01T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": { "name": "PolitiFact", "site": "politifact.com" },
+            "url": "https://www.politifact.com/factchecks/2024/may/02/kamala-harris/did-trump-say-states-have-the-right-to-monitor-pun/",
+            "title": "Did Trump say states have the right to monitor, punish women over abortion, as Kamala Harris said?",
+            "textualRating": "Mostly True",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "Medical professionals can go to jail for performing abortions in Florida",
+        "claimant": "Vice President Kamala Harris",
+        "claimReview": [
+          {
+            "publisher": {
+              "name": "First Coast News",
+              "site": "firstcoastnews.com"
+            },
+            "url": "https://www.firstcoastnews.com/article/news/verify/verifying-claims-vp-kamala-harris-made-abortion-trump-during-visit-to-jacksonville/77-c93f7581-1aff-461d-84f0-d5faeddc8449",
+            "title": "Verifying if claims made by Kamala Harris in Florida are true",
+            "reviewDate": "2024-05-02T00:33:00Z",
+            "textualRating": "True",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "Florida\u2019s Amendment 4 \"will mandate abortion until the moment of birth.\u201d",
+        "claimant": "Ron DeSantis",
+        "claimDate": "2024-04-23T00:00:00Z",
+        "claimReview": [
+          {
+            "publisher": { "name": "PolitiFact", "site": "politifact.com" },
+            "url": "https://www.politifact.com/factchecks/2024/apr/30/ron-desantis/no-a-florida-ballot-measure-wouldnt-mandate-aborti/",
+            "title": "No, a Florida ballot measure wouldn\u2019t \u2018mandate abortion up to birth,\u2019 as Gov. Ron DeSantis said",
+            "textualRating": "False",
+            "languageCode": "en"
+          }
+        ]
+      },
+      {
+        "text": "A viral video authentically showed Republican Arizona state Sen. Anthony Kern praying while kneeling on the floor of the Arizona State Senate before the Arizona State Court ruled on abortion.",
+        "claimReview": [
+          {
+            "publisher": { "name": "Snopes", "site": "snopes.com" },
+            "url": "https://www.snopes.com/fact-check/republican-prayed-in-az-senate-abortion/",
+            "title": "GOP Lawmaker Prayed on Arizona Senate Floor Before Abortion Ruling?",
+            "reviewDate": "2024-04-11T12:03:49Z",
+            "textualRating": "True",
+            "languageCode": "en"
+          }
+        ]
+      }
+    ],
+    "nextPageToken": "CAo"
+  }
+}
