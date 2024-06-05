@@ -1,2 +1,4 @@
 .env
 stopwordremoval.py
+venv
+spacy_pos.py
